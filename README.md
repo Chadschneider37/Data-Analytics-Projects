@@ -13,5 +13,5 @@ https://public.tableau.com/app/profile/chad.schneider/viz/FFRBAnalysis/FFRBDASH?
 
 ## Python Projects
 
-### Titanic Survival Project
+### Titanic Survival Predictive Modeling
 https://colab.research.google.com/drive/1nJz2d-TRmpl3bxfOqHGSLoBOnLxhH4jl#scrollTo=4tyzy-R6SQ6K
