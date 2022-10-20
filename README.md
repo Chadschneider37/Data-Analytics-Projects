@@ -12,3 +12,6 @@ https://public.tableau.com/app/profile/chad.schneider/viz/SportsDifficultyRating
 https://public.tableau.com/app/profile/chad.schneider/viz/FFRBAnalysis/FFRBDASH?publish=yes
 
 ## Python Projects
+
+###Titanic Survival Project
+https://colab.research.google.com/drive/1nJz2d-TRmpl3bxfOqHGSLoBOnLxhH4jl#scrollTo=4tyzy-R6SQ6K
