@@ -16,7 +16,7 @@ https://public.tableau.com/app/profile/chad.schneider/viz/FFRBAnalysis/FFRBDASH?
 #### Titanic Survival Predictive Modeling
 https://colab.research.google.com/drive/1nJz2d-TRmpl3bxfOqHGSLoBOnLxhH4jl#scrollTo=4tyzy-R6SQ6K
 
-#### What Is Better Making the NFL Playoffs? A Great Offense or A Stout Defense
+#### Better For NFL Playoff Potential - A Great Offense or A Stout Defense
 https://colab.research.google.com/drive/1LP1XWT-rjd0sqdqMeyV-yWawaSUIds2B
 
 https://github.com/Chadschneider37/Data-Analytics-Projects/blob/main/Playoff%20Chances%20-%20Great%20Offense%20vs%20Stout%20Defense.pptx
