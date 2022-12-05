@@ -15,3 +15,6 @@ https://public.tableau.com/app/profile/chad.schneider/viz/FFRBAnalysis/FFRBDASH?
 
 #### Titanic Survival Predictive Modeling
 https://colab.research.google.com/drive/1nJz2d-TRmpl3bxfOqHGSLoBOnLxhH4jl#scrollTo=4tyzy-R6SQ6K
+
+#### What Is Better Making the NFL Playoffs? A Great Offense or A Stout Defense
+https://colab.research.google.com/drive/1LP1XWT-rjd0sqdqMeyV-yWawaSUIds2B
